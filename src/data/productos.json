@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Computadora",
+        "description": "interactivos",
+        "price": 300,
+        "code": "2222",
+        "stock": 20,
+        "status": true
+    },
+    {
+        "id": 2,
+        "title": "Televisor",
+        "description": "interactivos",
+        "price": 300,
+        "code": "1111",
+        "stock": 20,
+        "status": true
+    },
+    {
+        "id": 3,
+        "title": "Heladera",
+        "description": "interactivos",
+        "price": 300,
+        "code": "4444",
+        "stock": 20,
+        "status": true
+    },
+    {
+        "id": 4,
+        "title": "Mesa",
+        "description": "interactivos",
+        "price": 300,
+        "code": "3333",
+        "stock": 20,
+        "status": true
+    },
+    {
+        "id": 5,
+        "title": "Silla",
+        "description": "interactivos",
+        "price": 300,
+        "code": "5555",
+        "stock": 20,
+        "status": true
+    },
+    {
+        "id": 6,
+        "title": "Aire acondicionado",
+        "description": "interactivos",
+        "price": 300,
+        "code": "6666",
+        "stock": 20,
+        "status": true
+    },
+    {
+        "id": 7,
+        "title": "Estufa",
+        "description": "interactivos",
+        "price": 300,
+        "code": "7777",
+        "stock": 20,
+        "status": true
+    },
+    {
+        "id": 8,
+        "title": "Ventilador",
+        "description": "interactivos",
+        "price": 300,
+        "code": "8888",
+        "stock": 20,
+        "status": true
+    },
+    {
+        "id": 9,
+        "title": "Monitor",
+        "description": "interactivos",
+        "price": 300,
+        "code": "9999",
+        "stock": 20,
+        "status": true
+    },
+    {
+        "id": 10,
+        "title": "Puerta",
+        "description": "interactivos",
+        "price": 300,
+        "code": "1000",
+        "stock": 20,
+        "status": true
+    }
+]
